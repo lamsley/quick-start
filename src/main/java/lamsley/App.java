@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!  V0.6 -master update" );
+        System.out.println( "Hello World!  V0.6 -master update --merge v0.7" );
     }
 }
