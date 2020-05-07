@@ -1,4 +1,4 @@
-package lamsley;
+package com;
 
 import static org.junit.Assert.assertTrue;
 
